@@ -11,3 +11,4 @@ import time
 audiogen.sampler.play(audiogen.tone(getFreq('F#4')))
 
 # from davy wybiral's script we can do the same thing using waveforms:
+# but how exactly??
