@@ -5,7 +5,7 @@ Making sounds on a comp broh
 
 Audiogen does not work properly in Python3+, so we used Python2.7
 
-Special to Davy Wybiral whose (code)[https://davywybiral.blogspot.com.br/2010/09/procedural-music-with-pyaudio-and-numpy.html] help me understand how sound works (on computers).
+Special to Davy Wybiral whose [code](https://davywybiral.blogspot.com.br/2010/09/procedural-music-with-pyaudio-and-numpy.html) help me understand how sound works (on computers).
 
 ### OSX
 ```
