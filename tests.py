@@ -1,7 +1,7 @@
 import sys
 write = sys.stdout.write
 
-from notefreqs import getFreq
+from note_freqs import getFreq
 
 
 def notefreqs_test():
