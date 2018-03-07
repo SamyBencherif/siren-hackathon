@@ -19,3 +19,11 @@ pip install audiogen
 pip install pyaudio
 pip install audiogen
 ```
+
+## Testing
+
+To run tests run
+
+```
+python tests.py
+```
