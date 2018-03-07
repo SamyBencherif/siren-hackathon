@@ -1,0 +1,122 @@
+Mario Overworld Main Theme pseudocode
+*notes are in ascending order when chords appear
+*slashes indicate end of measure
+
+d = 200
+
+Block 1, Line 1
+
+lFSHARP, E
+
+lF, E
+
+QUARTER
+
+lF, E
+
+\
+
+QUARTER
+
+lFSHARP, C
+
+lF, E
+
+\
+
+lG, B, hG
+
+QUARTER
+
+
+HALF
+
+\
+
+lG
+
+QUARTER
+
+HALF
+
+-----------Line 2
+B
+
+B
+
+QUARTER
+
+B
+
+\
+
+QUARTER
+
+B
+
+B
+
+QUARTER
+
+\
+
+WHOLE
+
+\
+
+E
+
+QUARTER
+
+HALF
+
+\
+
+Block 2----Line 1
+
+lE, C
+
+QUARTER
+
+QUARTER
+
+lC, lG
+
+\
+
+HALF
+
+llF, E
+
+QUARTER
+
+\
+
+QUARTER
+
+lC, A
+
+QUARTER
+
+D, B
+
+\
+
+QUARTER
+
+FLATD, FLATB
+
+lE, A
+
+QUARTER
+
+\
+
+-----------Line 2
+
+
+
+Block 3----Line 1
+
+
+-----------Line 2
