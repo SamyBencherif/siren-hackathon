@@ -7,7 +7,7 @@ print getFreq('E4')
 
 import time
 
+# This is using the old method:
 audiogen.sampler.play(audiogen.tone(getFreq('F#4')))
 
-time.sleep(3)
-audiogen.sampler.play(audiogen.tone(getFreq('E4')))
+# from davy wybiral's script we can do the same thing using waveforms:
