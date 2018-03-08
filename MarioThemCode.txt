@@ -41,21 +41,21 @@ QUARTER
 HALF
 
 -----------Line 2
-B
+D
 
-B
+D
 
 QUARTER
 
-B
+D
 
 \
 
 QUARTER
 
-B
+D
 
-B
+D
 
 QUARTER
 
@@ -65,7 +65,7 @@ WHOLE
 
 \
 
-E
+G
 
 QUARTER
 
