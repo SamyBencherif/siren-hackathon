@@ -4,6 +4,10 @@ import pyaudio
 import numpy as np
 from note_freqs import getFreq
 
+def getWaveformOfSilence(length):
+    fs = 44100       # sampling rate, Hz, must be integer
+
+    return np.zeros(int(fs*length))
 
 def getWaveformOfNote(note, length):
     fs = 44100       # sampling rate, Hz, must be integer
@@ -31,6 +35,7 @@ def playWaveform(wvfrm, volume=.5):
     p.terminate()
 
 
-thewave = getWaveformOfNote(getFreq('A4'), 1.0)
+if __name__ == '__main__':
+    thewave = getWaveformOfNote(getFreq('A4'), 1.0)
 
-playWaveform(thewave)
+    playWaveform(thewave)

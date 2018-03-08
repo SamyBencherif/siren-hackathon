@@ -6,119 +6,126 @@
 
 *d = 200
 
-Block 1, Line 1
+Line 1
 
-lF#, E
+--- Treble
 
-lF, E
+F#4, E5
 
-QUARTER_REST
-
-lF, E
-
-\
+F4, E5
 
 QUARTER_REST
 
-lF#, C
+F4, E5
 
-lF, E
-
-\
-
-lG, B, hG
+|
 
 QUARTER_REST
 
+F#4, C5
 
-HALF_REST
+F4, E5
 
-\
+QUARTER_REST
 
-lG
+|
+
+`G3, B4, G4
 
 QUARTER_REST
 
 HALF_REST
 
------------Line 2
-D
+|
 
-D
-
-QUARTER_REST
-
-D
-
-\
+G4
 
 QUARTER_REST
 
-D
+HALF_REST
 
-D
+--- Bass
+D3
+
+D3
 
 QUARTER_REST
 
-\
+D3
+
+|
+
+QUARTER_REST
+
+D3
+
+D3
+
+QUARTER_REST
+
+|
 
 WHOLE_REST
 
-\
+|
 
-G
+G3
 
 QUARTER_REST
 
 HALF_REST
 
-\
+|
 
-Block 2----Line 1
+Line 2
 
-lE, C
+*--- Treble
 
-QUARTER_REST
+*E4, C5
 
-QUARTER_REST
+*QUARTER_REST
 
-lC, lG
+*QUARTER_REST
 
-\
+*C4, G5
 
-HALF_REST
+*|
 
-llF, E
+*HALF_REST
 
-QUARTER_REST
+*F3, E5
 
-\
+*QUARTER_REST
 
-QUARTER_REST
+*|
 
-lC, A
+*QUARTER_REST
 
-QUARTER_REST
+*C4, A5
 
-D, B
+*QUARTER_REST
 
-\
+*D5, B5
 
-QUARTER_REST
+*|
 
-FLATD, FLATB
+*QUARTER_REST
 
-lE, A
+*Db, Bb
 
-QUARTER_REST
+*E4, A5
 
-\
+*QUARTER_REST
 
------------Line 2
+*|
 
-
-
-Block 3----Line 1
+*--- Bass
 
 
------------Line 2
+
+*Line 3
+
+*--- Treble
+
+
+*--- Bass

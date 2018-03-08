@@ -117,4 +117,4 @@ def getFreq(note):
             return float(freq)
 
     # If note is not found
-    return -1
+    raise KeyError("Note not found")
