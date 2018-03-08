@@ -1,25 +1,25 @@
-Mario Overworld Main Theme zudocode
+*Mario Overworld Main Theme zudocode
 *notes are in ascending order when chords appear
 *slashes indicate end of measure
 *http://www.mariopiano.com/Mario-Sheet-Music-Overworld-Main-Theme.pdf
 
-d = 200
+*d = 200
 
 Block 1, Line 1
 
-lFSHARP, E
+lF#, E
 
 lF, E
 
-QUARTER
+QUARTER_REST
 
 lF, E
 
 \
 
-QUARTER
+QUARTER_REST
 
-lFSHARP, C
+lF#, C
 
 lF, E
 
@@ -27,49 +27,49 @@ lF, E
 
 lG, B, hG
 
-QUARTER
+QUARTER_REST
 
 
-HALF
+HALF_REST
 
 \
 
 lG
 
-QUARTER
+QUARTER_REST
 
-HALF
+HALF_REST
 
 -----------Line 2
 D
 
 D
 
-QUARTER
+QUARTER_REST
 
 D
 
 \
 
-QUARTER
+QUARTER_REST
 
 D
 
 D
 
-QUARTER
+QUARTER_REST
 
 \
 
-WHOLE
+WHOLE_REST
 
 \
 
 G
 
-QUARTER
+QUARTER_REST
 
-HALF
+HALF_REST
 
 \
 
@@ -77,39 +77,39 @@ Block 2----Line 1
 
 lE, C
 
-QUARTER
+QUARTER_REST
 
-QUARTER
+QUARTER_REST
 
 lC, lG
 
 \
 
-HALF
+HALF_REST
 
 llF, E
 
-QUARTER
+QUARTER_REST
 
 \
 
-QUARTER
+QUARTER_REST
 
 lC, A
 
-QUARTER
+QUARTER_REST
 
 D, B
 
 \
 
-QUARTER
+QUARTER_REST
 
 FLATD, FLATB
 
 lE, A
 
-QUARTER
+QUARTER_REST
 
 \
 
