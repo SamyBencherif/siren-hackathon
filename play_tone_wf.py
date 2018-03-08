@@ -32,6 +32,5 @@ def playWaveform(wvfrm, volume=.5):
 
 
 thewave = getWaveformOfNote(getFreq('A4'), 1.0)
-# now we can do some maths to the wave before we play
 
 playWaveform(thewave)
